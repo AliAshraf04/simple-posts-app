@@ -1,4 +1,4 @@
-# simple-posts-app
+# posting-Webapp
  A simple and interactive React application where users can create, view, and manage posts. This project is built using React.js, Vite, and CSS Modules to provide a fast and modular user experience.
 
 🚀 Features
